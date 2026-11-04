@@ -4,4 +4,4 @@ Enlace al csv:
 
 Tipos del enumerado:
 
-    Mclaren, Mercedes, Ferrari, RedBullRacing, Williams, RacingBulls, AstonMartin, Haas, KickSauber, Alpine
+    McLaren, Mercedes, Ferrari, RedBullRacing, Williams, RacingBulls, AstonMartin, Haas, KickSauber, Alpine

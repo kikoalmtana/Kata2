@@ -1,0 +1,7 @@
+Enlace al csv:
+
+    https://raw.githubusercontent.com/toUpperCase78/formula1-datasets/master/Formula1_2025Season_Drivers.csv
+
+Tipos del enumerado:
+
+    Mclaren, Mercedes, Ferrari, RedBullRacing, Williams, RacingBulls, AstonMartin, Haas, KickSauber, Alpine

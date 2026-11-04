@@ -48,6 +48,7 @@ public class UrlDriverReader implements DriverReader{
     }
 
     private Team team(String team) {
-        return team.isEmpty() ? null : Team.valueOf(team);
+        String teamWithoutSpaces = team.replace(" ", "");
+        return team.isEmpty() ? null : Team.valueOf(teamWithoutSpaces);
     }
 }
